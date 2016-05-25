@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace FlickFun.iOS
+namespace FlickrFun.iOS
 {
 	public class Application
 	{

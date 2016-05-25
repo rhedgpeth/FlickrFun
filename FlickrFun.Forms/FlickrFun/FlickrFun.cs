@@ -2,7 +2,7 @@
 
 using Xamarin.Forms;
 
-namespace FlickFun
+namespace FlickrFun
 {
 	public class App : Application
 	{
@@ -11,7 +11,7 @@ namespace FlickFun
 			// The root page of your application
 			var content = new ContentPage
 			{
-				Title = "FlickFun",
+				Title = "FlickrFun",
 				Content = new StackLayout
 				{
 					VerticalOptions = LayoutOptions.Center,

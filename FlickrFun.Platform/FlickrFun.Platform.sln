@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickrFun.iOS", "FlickrFun.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickrFun.Droid", "FlickrFun.Droid\FlickrFun.Droid.csproj", "{2199EC67-E104-463D-8517-81A47555E5DA}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FlickrFun.Shared", "..\FlickrFun.Forms\FlickrFun.Shared\FlickrFun.Shared.shproj", "{492D4D8B-AEE1-4E52-8E60-36D24A1CB503}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
